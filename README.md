@@ -1,4 +1,3 @@
-@@ -0,0 +1,35 @@
 <div align=center>
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
